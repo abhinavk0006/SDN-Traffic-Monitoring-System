@@ -1,6 +1,6 @@
 # SDN-Traffic-Monitoring-System
-# SDN Traffic Monitoring & Statistics Collector
-## UE24CS252B — Computer Networks | Orange Level Project | Topic 3
+
+
 
 ---
 
