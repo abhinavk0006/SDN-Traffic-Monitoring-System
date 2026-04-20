@@ -65,7 +65,4 @@ The following results were verified during the demonstration:
 2. OpenFlow Switch Specification v1.3.0
 3. Mininet Network Emulator Project
 
----
-**Author**: Abhi
-**Course**: UE24CS252B Computer Networks
-**Project Level**: Orange
+
